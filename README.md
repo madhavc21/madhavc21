@@ -7,12 +7,12 @@
 <h3 align="left">📊 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhavc21&hide_border=true&border_radius=10&background=90,1a9fb5,fdf3ea,ff8a73,ff8a73,ff8a73,ff8a73&ring=0e7490&fire=f9735b&currStreakNum=0b2a3a&sideNums=0b2a3a&currStreakLabel=0e7490&sideLabels=1f2937&dates=374151&stroke=0e7490" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavc21&layout=compact&hide_border=true&border_radius=10&bg_color=90,1a9fb5,fdf3ea,ff8a73,ff8a73,ff8a73&title_color=0e7490&text_color=1f2937" height="176" />
+  <img src="https://streak-stats.demolab.com?user=madhavc21&hide_border=true&border_radius=10&background=90,1f7f7c,a8722f,8f3560,8f3560,8f3560,8f3560&ring=f3f4f6&fire=f3f4f6&currStreakNum=f3f4f6&sideNums=f3f4f6&currStreakLabel=f3f4f6&sideLabels=f3f4f6&dates=e5e7eb&stroke=f3f4f6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavc21&layout=compact&hide_border=true&border_radius=10&bg_color=90,1f7f7c,a8722f,8f3560,8f3560,8f3560&title_color=f3f4f6&text_color=f3f4f6" height="176" />
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ff7a5c/madhavc21" width="95%" />
+  <img src="https://ghchart.rshah.org/ff8a73/madhavc21" width="95%" />
 </div>
 
 <div align="center">
